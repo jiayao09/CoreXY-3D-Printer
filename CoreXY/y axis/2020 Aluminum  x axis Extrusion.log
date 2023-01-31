@@ -1,0 +1,39 @@
+﻿IGES to UG
+! INFO-     NX V10.0 / IGES Specification 5.3
+! INFO-      
+! INFO-     Start of Translation: 26-JAN-2023  12:14:52 AM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\Jiayao\Desktop\NX file\yz aixs\2020 Aluminum  x axis Extrusion.IGS
+! INFO-     SolidWorks IGES file using NURBS representation for surfaces            
+! SUMMARY-   
+! SUMMARY-  Summary of Supported IGES Entities in file
+! SUMMARY-   
+! SUMMARY-  Entity Type                    Count
+! SUMMARY-  -----------                    -----
+! SUMMARY-  Line (110/0).................:    44
+! SUMMARY-  Circular Arc (100/0).........:    44
+! SUMMARY-  Trans Matrix (124/0,1,10,12).:     1
+! SUMMARY-  Color Definition (314/0,1)...:     1
+! SUMMARY-  Group (402/1,7,14-16)........:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             91
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 26-JAN-2023 12:14:52 AM
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-JAN-2023  12:14:52 AM
+! INFO-     Filing Part ..: C:\Users\Jiayao\Desktop\NX file\yz aixs\2020 Aluminum  x axis Extrusion_igs.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Line ........................:    44
+! SUMMARY-  Arc/Circle ..................:    44
+! SUMMARY-  Part Attribute ..............:     8
+! SUMMARY-  Group .......................:     1
+! SUMMARY-  Matrix ......................:    44
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            141
+! INFO-      
+! INFO-     End of Translation: 26-JAN-2023  12:14:53 AM
+! INFO-      
