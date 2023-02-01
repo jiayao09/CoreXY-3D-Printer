@@ -13,9 +13,7 @@ Figure 1: Solidwork 3D model with default size 200mm x 300mmx 280mm
 ## Design Characteristics
 ### Customizable Print Range
 
-
-
-https://user-images.githubusercontent.com/110358483/215940640-161e8bdd-cebf-447a-a4d4-ca8a2a5f6b5d.mp4
+https://user-images.githubusercontent.com/110358483/215987725-ce5eb7a4-cb32-42ce-a906-95995e0d403d.mp4
 
 ### Better Stability Made of Firm Metal
 - Full metal structure.
