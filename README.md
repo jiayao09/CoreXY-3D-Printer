@@ -11,7 +11,10 @@
 Figure 1: Solidwork 3D model with default size 200mm x 300mmx 280mm
 
 ## Design Characteristics
-### Customizable Print Range
+### Customizable Print Range (Include everything you need)
+- Complete bill of materials for assembly and purchase. (View the attached BOM file)
+- STL file for 3D printing (considering the different properties of the 3d printer, the model design does not leave a margin. Don't forget to modify it in the slicer software in accordance with the printing device.)
+- 3D model can be changed according to set parameters for later installation and display (check out the following video)
 
 https://user-images.githubusercontent.com/110358483/215987725-ce5eb7a4-cb32-42ce-a906-95995e0d403d.mp4
 
@@ -35,6 +38,12 @@ https://user-images.githubusercontent.com/110358483/215987725-ce5eb7a4-cb32-42ce
 
 ### Easy Belt Maintenance
 - Easier belt alignment with a movable motor
-<img src="https://user-images.githubusercontent.com/110358483/215936470-5ea3e318-dea6-414f-993e-0d660620e058.png" width=30% height=30%> 
+
+<img src="https://user-images.githubusercontent.com/110358483/215936470-5ea3e318-dea6-414f-993e-0d660620e058.png" width=30% height=30%> EE
+
+## Further development
+- Adding automated bed leveling function
+- Coding for 3D printers
+- Uploading installation process
 
 
