@@ -12,11 +12,14 @@ Figure 1: Solidwork 3D model with default size 200mm x 300mmx 280mm
 
 ## Design Characteristics
 ### Customizable Print Range (Include everything you need)
-- Complete bill of materials for assembly and purchase. (View the attached BOM file)
-- STL file for 3D printing (considering the different properties of the 3d printer, the model design does not leave a margin. Don't forget to modify it in the slicer software in accordance with the printing device.)
+- Bill of materials for assembly and purchase. (View the attached BOM file)
+
+![BOM](https://user-images.githubusercontent.com/110358483/216165087-68d4eb34-fe33-40f2-9c72-3a0571286dcf.jpg)
+
+- STL file for 3D printing (Considering the different properties of the 3d printer, the model design does not leave a margin. Don't forget to modify it in the slicer software in accordance with the printing device.)
 - 3D model can be changed according to set parameters for later installation and display (check out the following video)
 
-https://user-images.githubusercontent.com/110358483/215987725-ce5eb7a4-cb32-42ce-a906-95995e0d403d.mp4
+https://user-images.githubusercontent.com/110358483/216223192-5d7ee592-2c5e-4510-852f-c61db8b9a21d.mp4
 
 ### Better Stability Made of Firm Metal
 - Full metal structure.
